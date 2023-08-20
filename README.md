@@ -1,16 +1,27 @@
-### Hi there 👋
+ ## Pedro Zanluqui
 
-<!--
-**PedroZanluqui/PedroZanluqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏻‍💻  At the moment, I'm focused on developing my front-end skills while expanding my knowledge in this vast field of knowledge.
 
-Here are some ideas to get you started:
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=pedrozanluqui" alt="paulozanluqui" /> </p>
+       
+##
+    
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrozanluqui&show_icons=true&theme=tokyonight)
+<img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrozanluqui&layout=compact&theme=tokyonight&langs_count=6"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My interests:
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Pedro-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
+  <img align="center" alt="Pedro-JAVA" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+</div>
+
+##
+
+<div>
+  <a href = "mailto:pedrozanluqui@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="www.linkedin.com/in/pedro-zanluqu" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
