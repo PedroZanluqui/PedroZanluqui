@@ -41,4 +41,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroZanluqui&layout=compact&theme=tokyonight" width="335">
 </p>
 
-![Snake animation](https://github.com/PedroZanluqui/PedroZanluqui/blob/output/github-contribution-grid-snake-dark.svg)
+<img src="https://raw.githubusercontent.com/PedroZanluqui/PedroZanluqui/output/snake.svg" alt="Snake animation" />
+
