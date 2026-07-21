@@ -5,7 +5,7 @@
 💻 I’m passionate about **technology, software development, and problem-solving**.  
 
 🚀 I’m currently learning and working with:  
-- **Languages**: C, Java, JavaScript, TypeScript, SQL  
+- **Languages**: C, Java, Python, JavaScript, TypeScript, SQL  
 - **Frameworks & Tools**: React, Node.js, Git  
 - **Databases**: SQL Server  
 
@@ -28,6 +28,7 @@
 <kbd>![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)</kbd>
 <kbd>![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)</kbd>
 <kbd>![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)</kbd>
+<kbd>![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)</kbd>
 <kbd>![SQL Server](https://img.shields.io/badge/microsoft%20sql%20server-%23CC2927.svg?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)</kbd>
 <kbd>![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)</kbd>
 
